@@ -1,2 +1,4 @@
 # Kaichi_Portflio
-Kaichi's first easy DS portfolio
+Data Science portfolio
+
+# Project 1: NBA Winning Team Prediction
