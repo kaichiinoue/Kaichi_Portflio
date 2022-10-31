@@ -1,4 +1,5 @@
-# Data Science Projects Portfolio by Kaichi Inoue
+# Kaichi_Portfolio
+*Data Science projects by Kaichi Inoue*
 
 # Project 1: NBA Winning Team Prediction
 - Web scraped data of all NBA players for season 2022 from a website called basketball reference.
