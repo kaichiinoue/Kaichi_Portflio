@@ -10,3 +10,7 @@
 - used data science packages such as numpy, pandas, statsmodels.api.
 - conducted some EDA to fit into the model.
 - built a model that can predict a salary of a data scientist based on their features
+
+<details><summary>Cool Dropdown</summary><br/>
+blah blah blah blah you found me!
+</details>
