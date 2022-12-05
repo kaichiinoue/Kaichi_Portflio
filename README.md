@@ -9,7 +9,7 @@
 
 ![](/images/graph1.png)
 ![](/images/graph2.png)
-![](/images/graph3_defaultsize.png)
+![](/images/graph3_340.png)
 
 # [Project 2: Predicting Data Scientists Salary](https://github.com/kaichiinoue/ds_salary_project)
 - Predicting Data Scientists salary based on their features
