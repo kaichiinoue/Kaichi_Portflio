@@ -7,9 +7,9 @@
 - Cleaned stats data so that it is ready to be used for model training
 - Optimized Linear and Random Forest Regressors by using RandomizedSearchCV and GridSearchCV to get the best model (failed but tried)
 
+![](/images/graph3_340.png)
 ![](/images/graph1.png)
 ![](/images/graph2.png)
-![](/images/graph3_340.png)
 
 # [Project 2: Predicting Data Scientists Salary](https://github.com/kaichiinoue/ds_salary_project)
 - Predicting Data Scientists salary based on their features
